@@ -1,2 +1,3 @@
 # playgroundfile
-playgroundfile1
+
+Cześć tu Dawid, a to moja szachownica.
